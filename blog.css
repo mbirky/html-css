@@ -1,0 +1,63 @@
+/*
+Color pallet chosen from: https://designschool.canva.com/blog/100-color-combinations/
+See pallet #26
+*/
+
+* {
+  color: #FFF;
+  background: #626D71;
+  font-family: 'Libre Baskerville', serif;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+h1, h2 {
+  text-transform: capitalize;
+}
+
+h1 {
+  color: #CDCDC0;
+}
+
+h2 {
+  color: #B38867;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*
+Color overide 1: https://designschool.canva.com/blog/website-color-schemes/
+Pallet: # 17
+
+* {
+  color: #FFF;
+  background: #286DA8;
+}
+
+h1 {
+  color: #B37D4E;
+}
+
+h2 {
+  color: #CD5360;
+}
+
+Color overide 2: https://designschool.canva.com/blog/website-color-schemes/
+Pallet: #42
+*/
+* {
+  color: #FFF;
+  background: #22252C;
+}
+
+h1 {
+  color: #C0B3A0;
+}
+
+h2 {
+  color: #E14658;
+}

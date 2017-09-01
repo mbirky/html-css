@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Reviews</title>
+    <link href="reviews.css" text='text/css' rel="stylesheet">
+  </head>
+  <body>
+    <ul>
+      <li>Fonts</li>
+    </ul>
+    <p>The font-family property changes the typeface of text.</p>
+    <p>Serif fonts have extra details on the ends of each letter. Sans-Serif fonts do not.</p>
+    <p>Fallback fonts are used when a certain font is not installed on a user's computer.</p>
+    <p>Google Fonts provides free fonts that can be used in an HTML file with the <link> element.</p>
+    <p>Font size can be specified using pixels, ems, or percentages.</p>
+    <p>The vertical spacing between lines of text can be modified with the line-spacing property.</p>
+    <p>The horizontal spacing between words can be modified with the word-spacing property.</p>
+    <p>The spacing between letters, the kernel, can be modified with the letter-spacing property.</p>
+    <p>Text can appear bold with the font-weight property.</p>
+    <p>Text can appear in italics with the font-style property.</p>
+    <p>Text can appear in all uppercase or all lowercase with the text-transform property.</p>
+    <p>Text can be aligned with the text-align property.</p>
+  </body>
+</html>
